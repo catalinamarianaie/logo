@@ -1,0 +1,5 @@
+downloaded_logos
+venv
+*.log
+*.vs
+*.pyc

@@ -24,6 +24,6 @@ The goal of the task was to extract company logos from a list of domains and gro
 - `logos.snappy.parquet` — dataset
 
 ## Running
-python3 -m venv .venv
-source .venv/bin/activate
-python3 main.py
+- python3 -m venv .venv
+- source .venv/bin/activate
+- python3 main.py
